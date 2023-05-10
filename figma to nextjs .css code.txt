@@ -1,0 +1,231 @@
+.iosstatusIcon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 44px;
+}
+.whatsappImage20230320At1 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 375px;
+  height: 661px;
+  object-fit: cover;
+}
+.khamzatChimaev {
+  font-weight: 600;
+}
+.khamzatChimaevIsContainer {
+  position: absolute;
+  top: 729px;
+  left: 16px;
+  letter-spacing: 0.01em;
+  line-height: 30px;
+  display: inline-block;
+  width: 343px;
+}
+.heIsWidely {
+  position: absolute;
+  top: 895px;
+  display: inline-block;
+}
+.heIsWidely,
+.heIsWidely1,
+.heIsWidely2 {
+  left: 16px;
+  letter-spacing: 0.01em;
+  line-height: 30px;
+  width: 343px;
+}
+.heIsWidely1 {
+  position: absolute;
+  top: 1031px;
+  display: inline-block;
+}
+.heIsWidely2 {
+  top: 1167px;
+}
+.heIsWidely2,
+.heIsWidely3,
+.trending {
+  position: absolute;
+  display: inline-block;
+}
+.heIsWidely3 {
+  top: 1676px;
+  left: 16px;
+  letter-spacing: 0.01em;
+  line-height: 30px;
+  width: 343px;
+}
+.trending {
+  top: 16px;
+  left: 50px;
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  font-weight: 600;
+  width: 232px;
+}
+.card1Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 248px;
+  height: 158px;
+  object-fit: cover;
+}
+.xNbaAll {
+  position: absolute;
+  top: 162px;
+  left: 8px;
+  font-size: var(--font-size-mini);
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 232px;
+}
+.amEst1 {
+  margin: 0;
+  padding-left: var(--padding-base);
+}
+.amEst {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  font-size: var(--font-inherit);
+  line-height: 18px;
+  font-family: var(--font-inherit);
+}
+.february192023Parent {
+  position: absolute;
+  top: 232px;
+  left: 8px;
+  width: 188px;
+  height: 18px;
+  color: var(--color-dimgray-100);
+}
+.card1Inner,
+.div,
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div {
+  line-height: 18px;
+}
+.card1Inner,
+.wrapper {
+  width: 34px;
+  height: 18px;
+}
+.card1Inner {
+  top: 255px;
+  left: 24px;
+  color: var(--color-tomato);
+}
+.eyeFillIcon {
+  position: absolute;
+  top: 258px;
+  left: 8px;
+  width: 12px;
+  height: 12px;
+}
+.card1 {
+  top: 65px;
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 248px;
+  height: 280px;
+}
+.card1,
+.card2,
+.trendingParent {
+  position: absolute;
+  overflow: hidden;
+}
+.card2 {
+  top: 65px;
+  left: 276px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 248px;
+  height: 280px;
+}
+.trendingParent {
+  top: 1303px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 375px;
+  height: 361px;
+  font-size: var(--font-size-xs);
+}
+.personLinesFillIcon {
+  position: absolute;
+  top: 1320px;
+  left: 16px;
+  width: 22px;
+  height: 22px;
+}
+.whatsappImage20230320At11 {
+  position: absolute;
+  top: 8px;
+  left: 32px;
+  width: 23px;
+  height: 20px;
+  object-fit: cover;
+}
+.shareFillIcon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.shareFillIcon,
+.threeDotsVerticalIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.shareFillParent {
+  position: absolute;
+  top: 8px;
+  left: 67px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.whatsappImage20230320At1Parent {
+  position: absolute;
+  top: 102px;
+  left: 240px;
+  background-color: var(--color-whitesmoke-200);
+  width: 120px;
+  height: 35px;
+  overflow: hidden;
+}
+.whatsappImage20230320At12 {
+  position: absolute;
+  top: 402px;
+  left: 271px;
+  width: 88px;
+  height: 34px;
+  object-fit: cover;
+}
+.socialProof {
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  width: 100%;
+  height: 1956px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}

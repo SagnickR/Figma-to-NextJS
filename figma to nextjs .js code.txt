@@ -1,0 +1,105 @@
+import styles from "./index.module.css";
+const SocialProof = () => {
+  return (
+    <div className={styles.socialProof}>
+      <img className={styles.iosstatusIcon} alt="" src="/iosstatus.svg" />
+      <img
+        className={styles.whatsappImage20230320At1}
+        alt=""
+        src="/whatsapp-image-20230320-at-1210-9@2x.png"
+      />
+      <div className={styles.khamzatChimaevIsContainer}>
+        <span className={styles.khamzatChimaev}>Khamzat Chimaev</span>
+        <span>{` is widely regarded as one of the most exciting fighters in the UFC today. He has dominated all his new opponents in the octagon, and season came down. `}</span>
+      </div>
+      <div
+        className={styles.heIsWidely}
+      >{`He is widely regarded as one of the most exciting fighters in the UFC today. He has dominated all his opponents in the octagon, and season came down. `}</div>
+      <div
+        className={styles.heIsWidely1}
+      >{`He is widely regarded as one of the most exciting fighters in the UFC today. He has dominated all his opponents in the octagon, and season came down. `}</div>
+      <div
+        className={styles.heIsWidely2}
+      >{`He is widely regarded as one of the most exciting fighters in the UFC today. He has dominated all his opponents in the octagon, and season came down. `}</div>
+      <div
+        className={styles.heIsWidely3}
+      >{`He is widely regarded as one of the most exciting fighters in the UFC today. He has dominated all his opponents in the octagon, and season came down. `}</div>
+      <div className={styles.trendingParent}>
+        <div className={styles.trending}>Trending</div>
+        <div className={styles.card1}>
+          <img
+            className={styles.card1Child}
+            alt=""
+            src="/rectangle-52@2x.png"
+          />
+          <div className={styles.xNbaAll}>
+            5x NBA All Star Coming in Luka Doncic’s Aid “Makes a Ton of Sense”:
+            Insider
+          </div>
+          <div className={styles.february192023Parent}>
+            <div className={styles.div}>February 19, 2023</div>
+            <div className={styles.amEst}>
+              <ul className={styles.amEst1}>12:20 am est</ul>
+            </div>
+          </div>
+          <div className={styles.card1Inner}>
+            <div className={styles.wrapper}>
+              <div className={styles.div}>{`22432 `}</div>
+            </div>
+          </div>
+          <img className={styles.eyeFillIcon} alt="" src="/eyefill.svg" />
+        </div>
+        <div className={styles.card2}>
+          <img
+            className={styles.card1Child}
+            alt=""
+            src="/rectangle-52@2x.png"
+          />
+          <div className={styles.xNbaAll}>
+            5x NBA All Star Coming in Luka Doncic’s Aid “Makes a Ton of Sense”:
+            Insider
+          </div>
+          <div className={styles.february192023Parent}>
+            <div className={styles.div}>February 19, 2023</div>
+            <div className={styles.amEst}>
+              <ul className={styles.amEst1}>12:20 am est</ul>
+            </div>
+          </div>
+          <div className={styles.card1Inner}>
+            <div className={styles.wrapper}>
+              <div className={styles.div}>{`22432 `}</div>
+            </div>
+          </div>
+          <img className={styles.eyeFillIcon} alt="" src="/eyefill.svg" />
+        </div>
+      </div>
+      <img
+        className={styles.personLinesFillIcon}
+        alt=""
+        src="/personlinesfill.svg"
+      />
+      <div className={styles.whatsappImage20230320At1Parent}>
+        <img
+          className={styles.whatsappImage20230320At11}
+          alt=""
+          src="/whatsapp-image-20230320-at-1210-10@2x.png"
+        />
+        <div className={styles.shareFillParent}>
+          <img className={styles.shareFillIcon} alt="" src="/sharefill.svg" />
+          <img
+            className={styles.threeDotsVerticalIcon}
+            alt=""
+            src="/threedotsvertical.svg"
+          />
+        </div>
+      </div>
+      <img
+        className={styles.whatsappImage20230320At12}
+        alt=""
+        src="/whatsapp-image-20230320-at-1210-101@2x.png"
+      />
+    </div>
+  );
+};
+
+export default SocialProof;
